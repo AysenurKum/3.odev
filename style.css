@@ -1,0 +1,27 @@
+a { color: red;
+    font-weight: bolder;
+    }
+
+a:hover.a1 {
+    color:yellow
+}
+
+a:hover.a2 {
+    font-size: 40px;
+}
+
+a:hover.a3 {
+    background-color: yellowgreen;
+}
+
+a:hover.a4 {
+    font-family: fantasy;
+}
+
+a:link.a5 {
+    text-decoration-color: transparent;
+}
+
+a:hover.a5 {
+   text-decoration-color: red;
+}
