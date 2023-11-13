@@ -19,9 +19,10 @@ a:hover.a4 {
 }
 
 a:link.a5 {
-    text-decoration-color: transparent;
+    text-decoration:none;
 }
 
 a:hover.a5 {
-   text-decoration-color: red;
+   text-decoration:underline;
 }
+
